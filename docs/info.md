@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Este proyecto es enfocado en la UNL en colaboración con IEEE en Panamá, por el Ingeniero Kevin Loja
+Este proyecto es enfocado en la UNL en colaboración con IEEE en Panamá, por Kevin Loja
 
 ## How to test
 
-Este proyecto es enfocado en la UNL en colaboración con IEEE en Panamá, por el Ingeniero Kevin Loja
+Este proyecto es enfocado en la UNL en colaboración con IEEE en Panamá, por Kevin Loja
 
 ## External hardware
 
-Este proyecto es enfocado en la UNL en colaboración con IEEE en Panamá, por el Ingeniero Kevin Loja
+Este proyecto es enfocado en la UNL en colaboración con IEEE en Panamá, por Kevin Loja
